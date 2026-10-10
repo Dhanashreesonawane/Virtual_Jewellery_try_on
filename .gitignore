@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
